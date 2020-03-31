@@ -5,8 +5,11 @@ v1.0 updates
 For now it only supports cisc365 and cisc220 and the 220 page is not built yet, but I will fix it tonight.
 2.sell page fake submitment impletmented by alert () 
 // I think the market page update could also be impletmented without real back end but pure js, I might need a little bit more time for this.
-3. review page update with new UI and review function ( I would add more detail for the input optional or not )
+3. review page & book info pages update with new UI and review function ( I would add more detail for the input optional or not )
 4.reorganize the dir for pages and files. 
 
-
+v1.1 
+1 bookinfo & bookreview pages added for cisc 220 
+2 review part for courses was removed
+3 the 5 stars rate funciton would be added tomorrow morning 
 
