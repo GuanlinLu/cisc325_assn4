@@ -15,3 +15,9 @@ v1.1
 
 v1.2
 1.  star rate added in to review page. But I dt see a easy way to pass var of the star rate to the review side bar without real back end support.
+
+v1.3
+1. submit button fix
+2. the 3rd book added (also info page, review page and market page for book3 and 2)
+3.text issue fixed
+4.login button remove
