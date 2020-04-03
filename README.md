@@ -21,3 +21,8 @@ v1.3
 2. the 3rd book added (also info page, review page and market page for book3 and 2)
 3.text issue fixed
 4.login button remove
+
+v1.4
+1. show all removed from review pages
+2.fix all search result for home page ( cisc365, cisc220 ,cisc324, cisc or else)
+3.fix the links on result pages, which all them links to book pages now.
