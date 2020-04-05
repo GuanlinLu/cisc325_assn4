@@ -29,3 +29,6 @@ v1.4
 
 v1.5
 1. sell page picture upload problem fixed
+
+v1.6
+- search result now is case insensitive.
